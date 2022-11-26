@@ -1,0 +1,26 @@
+{
+  "name": "professional-generator",
+  "version": "1.0.0",
+  "description": "nodejs backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpowers29/Professional-Generator.git"
+  },
+  "keywords": [
+    "Inquirer"
+  ],
+  "author": "Tyler Powers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpowers29/Professional-Generator/issues"
+  },
+  "homepage": "https://github.com/tpowers29/Professional-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
