@@ -1,5 +1,5 @@
 
-# Title: gf
+# Title: Readme Generator
 
 ## Table of Contents
 * [Description](#description)
@@ -12,27 +12,27 @@
 * [Testing](#testing)
    
 ### Description
-dd
+Backend cli app
 
 ### Installation
-ed
+npm i
 
 ### Usage
-ed
+free
 
 ### License
-undefined
-![GitHub license](https://img.shields.io/badge/license-undefined-green.svg)
+MIT
+![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
 
 ### Email
-d
+tylerpowerst@aol.com
 
 ### Github
-d
+tpowers29
 
 ### Contribution
-d
+Tyler Powers
 
 ### Testing
-de
+Manual
    
